@@ -1,0 +1,117 @@
+
+ body{
+    justify-content: center;
+    color: aliceblue;
+    background-color: #000;
+ }
+
+ header{
+    align-items: center;
+    float: inline-start;
+    background-color: rgb(82, 76, 74) ;
+ }
+
+ h1{
+    text-align: center;
+    color: orange;
+ }
+
+ h2{
+    text-align: center;
+    color: orange;  
+ }
+
+p{
+    display: flex;
+    justify-content:space-between;
+    font-size: 32px;
+}
+
+.dubladores{
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 179, 38);
+    border-radius: 500px;
+    padding:10px;
+    text-decoration: none;
+    font-size: 26px;
+}
+
+footer {
+    background-color: rgb(82, 76, 74);
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+h3{
+    color: orange;
+}
+
+
+article {
+    width: 300px;
+    border: 3px solid #fc8f00;
+    box-shadow: 1px 1px 1em #ffa600;
+    background-color: #fff;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+ .personagens{
+    display: flex;
+    justify-content: space-between;
+    color:orange ;
+    font-size: 26px;
+}
+
+.sobre{
+    color: #fff;
+}
+
+.aline{
+    color: #fc8f00;
+    font-size: 50px;
+}
+
+.personagens{
+   color: #fc8f00;
+}
+
+.sobre{
+    color: #fff;
+}
+
+.anime{
+        display: flex;
+        justify-content: space-between;
+}
+
+ .anima{
+  display: flex;
+   justify-content: center;
+   border-radius: 25px;
+   padding: 50px ;
+   margin: 5px;
+ }
+
+ h2{
+     color: #fff;
+     font-size: 42px;
+     display: flex;
+     justify-content: center;
+ }
+ 
+ .um{
+     padding: 50px ;
+     margin: 5px;
+ }
+ .vidiozin{
+     padding: 50px ;
+     margin: 5px;
+ }
